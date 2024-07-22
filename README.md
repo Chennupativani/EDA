@@ -1,1 +1,10 @@
-# EDA
+NAME :CHENNUPATI VANI 
+COMPANY : CODETECH IT SOLUTIONS
+ID : COD345 DOMAIN : DATA SCIENCE 
+DURATION : JULY MONITOR : NEELA SANTHOSH KUMAR 
+Overview of the project : project : Exploratory Data Analysis(EDA) on tips dataset different types of data visualization tool
+Objective : The objective of this project is to perform Exploratory Data Analysis(EDA) on a dataset containing statistics data.count plots for categorical data and outliers through visualizations.
+Key Activities : 
+Data cleaning : Ensuring the dataset is free from inconsistence and missing values. 
+Data Visualizations :Creating visualizations to understand data distribution ,trends, and relationships. 
+Correlation Analysis :Identifying correlations between population figures across different years.
